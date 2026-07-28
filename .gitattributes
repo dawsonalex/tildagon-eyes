@@ -1,1 +1,3 @@
 makefile export-ignore
+README.md export-ignore
+simulator_screenshot.png export-ignore
