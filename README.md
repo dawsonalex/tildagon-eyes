@@ -1,6 +1,8 @@
 # Tildagon Googly Eyes
 
-Give your badge googly eyes! 
+Give your badge googly eyes! Careful, they are prone to rolling around.
+
+![A simulator screenshot of the app](./simulator_screenshot.png)
 
 ## Development
 
