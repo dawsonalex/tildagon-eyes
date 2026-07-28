@@ -31,7 +31,7 @@ class Eye():
 
         limit = 120-self.eye_radius ## This is the screen size-eye radius, for wall collisions.
         dist = math.sqrt(self.posx**2 + self.posy**2)
-        if dist > 120-self.eye_radius:
+        if dist > limit:
             ## compute the distance vector from the center
             nx = self.posx / dist
             ny = self.posy / dist
