@@ -1,0 +1,13 @@
+{
+  "app": {
+    "name": "Eyeballs!",
+    "category": ["Badge"]
+  },
+  "metadata": {
+    "author": "Alex Dawson",
+    "license": "MIT",
+    "url": "https://www.github.com/dawsonalex/tildagon-eyes",
+    "description": "Googly eyes for your badge.",
+    "version": "0.0.1"
+  }
+}
